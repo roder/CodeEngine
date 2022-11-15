@@ -195,7 +195,7 @@ func main() {
 		if target == "" {
 			target = "World"
 		}
-		msg = "👋 Hello " + target + " from"
+		msg = "🍑 Hello " + target + " from"
 	}
 
 	// Get the list of env vars, and sort them for easy reading
